@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formularioregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formularioregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|c:\\users\\daniel\\onedrive\\desktop\\chicharp\\proyectos\\proyectos\\proyectocompleto\\programaventas\\formularioregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formularioregistrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\accesobasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\accesobasedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formularioregistrardistribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formularioregistrardistribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formularioregistrardistribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formularioregistrardistribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formularioa\u00F1adirventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formularioa\u00F1adirventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formulariocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\formularioa\u00F1adirventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\formularioa\u00F1adirventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\programaventas\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}|ProgramaVentas\\ProgramaVentas.csproj|solutionrelative:programaventas\\distribuidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\Funciones.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\Funciones.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\Funciones.cs",
+              "RelativeToolTip": "ProgramaVentas\\Funciones.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:27:45.366Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formularioRegistrarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarProducto.cs",
+              "RelativeToolTip": "ProgramaVentas\\formularioRegistrarProducto.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAArwCoAAACfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:37:07.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "formularioCliente.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioCliente.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioCliente.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioCliente.cs",
+              "RelativeToolTip": "ProgramaVentas\\formularioCliente.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwEgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:55:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "formularioCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioCliente.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioCliente.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProgramaVentas\\formularioCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:55:46.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formularioA\u00F1adirVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioA\u00F1adirVenta.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioA\u00F1adirVenta.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioA\u00F1adirVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProgramaVentas\\formularioA\u00F1adirVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:52:38.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Distribuidor.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\Distribuidor.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\Distribuidor.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\Distribuidor.cs",
+              "RelativeToolTip": "ProgramaVentas\\Distribuidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:16:54.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formularioRegistrarDistribuidor.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarDistribuidor.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioRegistrarDistribuidor.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarDistribuidor.cs",
+              "RelativeToolTip": "ProgramaVentas\\formularioRegistrarDistribuidor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T03:52:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "formularioRegistrarDistribuidor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarDistribuidor.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioRegistrarDistribuidor.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarDistribuidor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProgramaVentas\\formularioRegistrarDistribuidor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T03:51:43.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "formularioA\u00F1adirVenta.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioA\u00F1adirVenta.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioA\u00F1adirVenta.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioA\u00F1adirVenta.cs",
+              "RelativeToolTip": "ProgramaVentas\\formularioA\u00F1adirVenta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:09:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoBaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\AccesoBaseDatos.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\AccesoBaseDatos.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\AccesoBaseDatos.cs",
+              "RelativeToolTip": "ProgramaVentas\\AccesoBaseDatos.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:27:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formularioRegistrarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarProducto.cs",
+              "RelativeDocumentMoniker": "ProgramaVentas\\formularioRegistrarProducto.cs",
+              "ToolTip": "C:\\Users\\DANIEL\\OneDrive\\Desktop\\chicharp\\proyectos\\Proyectos\\ProyectoCompleto\\ProgramaVentas\\formularioRegistrarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProgramaVentas\\formularioRegistrarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T02:27:45.369Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

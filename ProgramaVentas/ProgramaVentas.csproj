@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{517F1AB0-2DA2-4A1C-B592-5DC2D86CBC82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProgramaVentas</RootNamespace>
+    <AssemblyName>ProgramaVentas</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccesoBaseDatos.cs" />
+    <Compile Include="ColumnaDefinicion.cs" />
+    <Compile Include="Distribuidor.cs" />
+    <Compile Include="formularioCerrarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioCerrarSesion.Designer.cs">
+      <DependentUpon>formularioCerrarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioEditarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioEditarPerfil.Designer.cs">
+      <DependentUpon>formularioEditarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioPerfil.Designer.cs">
+      <DependentUpon>formularioPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioRegistrarDistribuidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioRegistrarDistribuidor.Designer.cs">
+      <DependentUpon>formularioRegistrarDistribuidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioRegistrarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioRegistrarProducto.Designer.cs">
+      <DependentUpon>formularioRegistrarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones.cs" />
+    <Compile Include="Marca.cs" />
+    <Compile Include="PantallaInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaInicio.Designer.cs">
+      <DependentUpon>PantallaInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsuarioIniciado.cs" />
+    <Compile Include="formularioAñadirVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioAñadirVenta.Designer.cs">
+      <DependentUpon>formularioAñadirVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioCliente.Designer.cs">
+      <DependentUpon>formularioCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioCuenta.Designer.cs">
+      <DependentUpon>formularioCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioMostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioMostrar.Designer.cs">
+      <DependentUpon>formularioMostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioProductos.Designer.cs">
+      <DependentUpon>formularioProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formularioVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioVentas.Designer.cs">
+      <DependentUpon>formularioVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Persona.cs" />
+    <Compile Include="Producto.cs" />
+    <Compile Include="RoundedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioInicio.Designer.cs">
+      <DependentUpon>formularioInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelRegistro.Designer.cs">
+      <DependentUpon>PanelRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaPrincipal.Designer.cs">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroConcluido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroConcluido.Designer.cs">
+      <DependentUpon>RegistroConcluido.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="formularioAñadirVenta.resx">
+      <DependentUpon>formularioAñadirVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioCerrarSesion.resx">
+      <DependentUpon>formularioCerrarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioCliente.resx">
+      <DependentUpon>formularioCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioCuenta.resx">
+      <DependentUpon>formularioCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioEditarPerfil.resx">
+      <DependentUpon>formularioEditarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioInicio.resx">
+      <DependentUpon>formularioInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioMostrar.resx">
+      <DependentUpon>formularioMostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioPerfil.resx">
+      <DependentUpon>formularioPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioProductos.resx">
+      <DependentUpon>formularioProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioRegistrarDistribuidor.resx">
+      <DependentUpon>formularioRegistrarDistribuidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioRegistrarProducto.resx">
+      <DependentUpon>formularioRegistrarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioVentas.resx">
+      <DependentUpon>formularioVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelRegistro.resx">
+      <DependentUpon>PanelRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaInicio.resx">
+      <DependentUpon>PantallaInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaPrincipal.resx">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RegistroConcluido.resx">
+      <DependentUpon>RegistroConcluido.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
