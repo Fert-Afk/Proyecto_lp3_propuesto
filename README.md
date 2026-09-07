@@ -16,7 +16,7 @@ El proyecto consiste en la simulación de un programa de Gestión de ventas. Cue
 
 
 
-#### Clonación del repositorio
+### Clonación del repositorio
 
 - Inicia GIT en la carpeta donde se alojará el repositorio.
 
@@ -56,9 +56,9 @@ git merge rama_cambio
 
 
 
-#### Acceder a la base de datos
+### Acceder a la base de datos
 
-######Local
+###### Local
 
 En la carpeta "ArchivoBD" se encuentra el archivo que contiene la base de datos.
 
@@ -67,12 +67,7 @@ En la carpeta "ArchivoBD" se encuentra el archivo que contiene la base de datos.
 
 
 ###### Remoto
-
-<<<<<<< HEAD
 Para conectar a la base de dato de forma remota se explica en el siguiente video: [Habilitar conexión remota](https://youtu.be/wVNPjDeZOhA?si=r8ANs02gO1XchwmM "Habilitar conexión remota"). Una vez con todo habilitado, se requiere la [descarga e instalación de Taiscale](https://tailscale.com/download "descarga e instalación de Tailscale"), es una plataforma que nos ayudará a conectarnos a una misma red y acceder a una misma IP, funcionará como túnel para poder entrar de forma segura a nuestra Base de datos. Con la correcta instalación e inicio de sesión, al propietario de la maquina donde se aloja la BD solicitar la invitación al grupo de la maquina y así poder acceder. Luego, con el rol de administrador asignado por el propietario, copiar el IP proporcionado y añadir ',1433' (el puerto para acceder a la base de datos, sin espacio antes de la coma), seleccionar la Autenticación de SQL Server y copiar las credenciales personales creadas por el propietario que se le proporcionará.
-=======
+
 ###### Remoto
-
 Para conectar a la base de dato de forma remota se explica en el siguiente video: [Habilitar conexion remota](http://https://youtu.be/wVNPjDeZOhA?si=r8ANs02gO1XchwmM "Habilitar conexion remota"). Una vez con todo habilitado, se requiere la [descarga e instalación de Taiscale](http://https://tailscale.com/download "descarga e instalación de Taiscale"), es una plataforma que nos ayudará a conextarnos a una misma red y acceder a una misma IP, funcionará como tunel para poder entrar de forma segura a nuestra Base de datos. Con la correcta instalación e inicio de sesión, al propietario de la maquina donde se aloja la BD solitar la invitación al grupo de la maquina y así poder acceder. Luego, con el rol de administrador asignado por el propietario, copiar el IP proporcionado y añadir ',1433' (el puerto para acceder a la base de datos, sin espacio antes de la coma), seleccionar la Autenticación de SQL Server y copiar las credenciales personales creadas por el propietario que se le proporcionará.
->>>>>>> 32380a0cabb9faacc331d87d324a6a929fe93bdf
-
