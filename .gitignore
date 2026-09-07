@@ -1,0 +1,58 @@
+# ============================
+# Visual Studio / WinForms
+# ============================
+
+# Archivos de caché internos de Visual Studio
+.vs/
+.vscode/
+
+# ============================
+# Compilación
+# ============================
+
+# Carpetas generadas al compilar (no deben subirse)
+bin/
+obj/
+Debug/
+Release/
+
+# ============================
+# Archivos de usuario
+# ============================
+
+# Configuraciones personales de Visual Studio
+*.user
+*.suo
+*.userosscache
+
+# ============================
+# Logs y temporales
+# ============================
+
+# Archivos de log y temporales
+*.log
+*.tmp
+*.cache
+
+# ============================
+# Paquetes NuGet
+# ============================
+
+# Paquetes descargados localmente (se restauran con dotnet restore)
+packages/
+*.nupkg
+
+# ============================
+# Bases de datos locales
+# ============================
+
+# Archivos de SQL Server locales (no se comparten en repositorio)
+*.mdf
+*.ldf
+
+# ============================
+# Publicación
+# ============================
+
+# Archivos de publicación y despliegue
+publish/

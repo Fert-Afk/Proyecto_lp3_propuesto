@@ -46,167 +46,168 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccesoBaseDatos.cs" />
-    <Compile Include="ColumnaDefinicion.cs" />
-    <Compile Include="Distribuidor.cs" />
-    <Compile Include="formularioCerrarSesion.cs">
+    <Compile Include="Datos\AccesoBaseDatos.cs" />
+    <Compile Include="Servicios\UsuarioServicio.cs" />
+    <Compile Include="Utilidades\ColumnaDefinicion.cs" />
+    <Compile Include="Entidades\Distribuidor.cs" />
+    <Compile Include="IU\formularioCerrarSesion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioCerrarSesion.Designer.cs">
+    <Compile Include="IU\formularioCerrarSesion.Designer.cs">
       <DependentUpon>formularioCerrarSesion.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioEditarPerfil.cs">
+    <Compile Include="IU\formularioEditarPerfil.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioEditarPerfil.Designer.cs">
+    <Compile Include="IU\formularioEditarPerfil.Designer.cs">
       <DependentUpon>formularioEditarPerfil.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioPerfil.cs">
+    <Compile Include="IU\formularioPerfil.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioPerfil.Designer.cs">
+    <Compile Include="IU\formularioPerfil.Designer.cs">
       <DependentUpon>formularioPerfil.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioRegistrarDistribuidor.cs">
+    <Compile Include="IU\formularioRegistrarDistribuidor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioRegistrarDistribuidor.Designer.cs">
+    <Compile Include="IU\formularioRegistrarDistribuidor.Designer.cs">
       <DependentUpon>formularioRegistrarDistribuidor.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioRegistrarProducto.cs">
+    <Compile Include="IU\formularioRegistrarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioRegistrarProducto.Designer.cs">
+    <Compile Include="IU\formularioRegistrarProducto.Designer.cs">
       <DependentUpon>formularioRegistrarProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="Funciones.cs" />
-    <Compile Include="Marca.cs" />
-    <Compile Include="PantallaInicio.cs">
+    <Compile Include="Utilidades\Funciones.cs" />
+    <Compile Include="Entidades\Marca.cs" />
+    <Compile Include="IU\PantallaInicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PantallaInicio.Designer.cs">
+    <Compile Include="IU\PantallaInicio.Designer.cs">
       <DependentUpon>PantallaInicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="UsuarioIniciado.cs" />
-    <Compile Include="formularioAñadirVenta.cs">
+    <Compile Include="Entidades\UsuarioIniciado.cs" />
+    <Compile Include="IU\formularioAñadirVenta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioAñadirVenta.Designer.cs">
+    <Compile Include="IU\formularioAñadirVenta.Designer.cs">
       <DependentUpon>formularioAñadirVenta.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioCliente.cs">
+    <Compile Include="IU\formularioCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioCliente.Designer.cs">
+    <Compile Include="IU\formularioCliente.Designer.cs">
       <DependentUpon>formularioCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioCuenta.cs">
+    <Compile Include="IU\formularioCuenta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioCuenta.Designer.cs">
+    <Compile Include="IU\formularioCuenta.Designer.cs">
       <DependentUpon>formularioCuenta.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioMostrar.cs">
+    <Compile Include="IU\formularioMostrar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioMostrar.Designer.cs">
+    <Compile Include="IU\formularioMostrar.Designer.cs">
       <DependentUpon>formularioMostrar.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioProductos.cs">
+    <Compile Include="IU\formularioProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioProductos.Designer.cs">
+    <Compile Include="IU\formularioProductos.Designer.cs">
       <DependentUpon>formularioProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="formularioVentas.cs">
+    <Compile Include="IU\formularioVentas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioVentas.Designer.cs">
+    <Compile Include="IU\formularioVentas.Designer.cs">
       <DependentUpon>formularioVentas.cs</DependentUpon>
     </Compile>
-    <Compile Include="Persona.cs" />
-    <Compile Include="Producto.cs" />
-    <Compile Include="RoundedForm.cs">
+    <Compile Include="Entidades\Persona.cs" />
+    <Compile Include="Entidades\Producto.cs" />
+    <Compile Include="IU\RoundedForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioInicio.cs">
+    <Compile Include="IU\formularioInicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="formularioInicio.Designer.cs">
+    <Compile Include="IU\formularioInicio.Designer.cs">
       <DependentUpon>formularioInicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="Inicio.cs">
+    <Compile Include="IU\Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Inicio.Designer.cs">
+    <Compile Include="IU\Inicio.Designer.cs">
       <DependentUpon>Inicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="PanelRegistro.cs">
+    <Compile Include="IU\PanelRegistro.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PanelRegistro.Designer.cs">
+    <Compile Include="IU\PanelRegistro.Designer.cs">
       <DependentUpon>PanelRegistro.cs</DependentUpon>
     </Compile>
-    <Compile Include="PantallaPrincipal.cs">
+    <Compile Include="IU\PantallaPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PantallaPrincipal.Designer.cs">
+    <Compile Include="IU\PantallaPrincipal.Designer.cs">
       <DependentUpon>PantallaPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="IU\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegistroConcluido.cs">
+    <Compile Include="IU\RegistroConcluido.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RegistroConcluido.Designer.cs">
+    <Compile Include="IU\RegistroConcluido.Designer.cs">
       <DependentUpon>RegistroConcluido.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="formularioAñadirVenta.resx">
+    <EmbeddedResource Include="IU\formularioAñadirVenta.resx">
       <DependentUpon>formularioAñadirVenta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioCerrarSesion.resx">
+    <EmbeddedResource Include="IU\formularioCerrarSesion.resx">
       <DependentUpon>formularioCerrarSesion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioCliente.resx">
+    <EmbeddedResource Include="IU\formularioCliente.resx">
       <DependentUpon>formularioCliente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioCuenta.resx">
+    <EmbeddedResource Include="IU\formularioCuenta.resx">
       <DependentUpon>formularioCuenta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioEditarPerfil.resx">
+    <EmbeddedResource Include="IU\formularioEditarPerfil.resx">
       <DependentUpon>formularioEditarPerfil.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioInicio.resx">
+    <EmbeddedResource Include="IU\formularioInicio.resx">
       <DependentUpon>formularioInicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioMostrar.resx">
+    <EmbeddedResource Include="IU\formularioMostrar.resx">
       <DependentUpon>formularioMostrar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioPerfil.resx">
+    <EmbeddedResource Include="IU\formularioPerfil.resx">
       <DependentUpon>formularioPerfil.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioProductos.resx">
+    <EmbeddedResource Include="IU\formularioProductos.resx">
       <DependentUpon>formularioProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioRegistrarDistribuidor.resx">
+    <EmbeddedResource Include="IU\formularioRegistrarDistribuidor.resx">
       <DependentUpon>formularioRegistrarDistribuidor.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioRegistrarProducto.resx">
+    <EmbeddedResource Include="IU\formularioRegistrarProducto.resx">
       <DependentUpon>formularioRegistrarProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="formularioVentas.resx">
+    <EmbeddedResource Include="IU\formularioVentas.resx">
       <DependentUpon>formularioVentas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Inicio.resx">
+    <EmbeddedResource Include="IU\Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PanelRegistro.resx">
+    <EmbeddedResource Include="IU\PanelRegistro.resx">
       <DependentUpon>PanelRegistro.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PantallaInicio.resx">
+    <EmbeddedResource Include="IU\PantallaInicio.resx">
       <DependentUpon>PantallaInicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PantallaPrincipal.resx">
+    <EmbeddedResource Include="IU\PantallaPrincipal.resx">
       <DependentUpon>PantallaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -218,7 +219,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="RegistroConcluido.resx">
+    <EmbeddedResource Include="IU\RegistroConcluido.resx">
       <DependentUpon>RegistroConcluido.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -232,7 +233,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="Datos\App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
